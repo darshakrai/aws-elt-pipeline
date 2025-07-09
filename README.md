@@ -20,5 +20,4 @@ See `glue_job_script.py`
 
 ---
 
-⚠️ Redshift credentials & endpoints are excluded via `.gitignore`
 
