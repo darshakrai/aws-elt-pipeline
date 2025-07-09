@@ -1,0 +1,9 @@
+# Prevent credentials from being committed
+*.zip
+*.pyc
+__pycache__/
+.env
+*.pem
+*.log
+*credentials*
+
